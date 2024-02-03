@@ -9,7 +9,7 @@
 #define PYSwiftBridinglayer_h
 
 
-#endif /* Header_h */
+#endif /* PYSwiftBridinglayer_h */
 
 #ifdef __cplusplus
 extern "C" {
@@ -21,4 +21,4 @@ void execute_python_script(const char *script);
 }
 #endif
 
-#endif /* SwiftPythonBridge_h */
+#endif /* PYSwiftBridinglayer_h */
